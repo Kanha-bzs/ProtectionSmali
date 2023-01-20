@@ -1,0 +1,47 @@
+[
+{
+"Protection_Name" : "Internet Checker",
+"Description" : "If device has no internet connection then app will crash",
+"Provider_Name" : "mt.Internet",
+"File_Name" : "Internet.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Internet.smali"
+},
+{
+"Protection_Name" : "Root Checker",
+"Description" : "If device is rooted then app will crash",
+"Provider_Name" : "mt.Root",
+"File_Name" : "Root.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Root.smali"
+},
+
+{
+"Protection_Name" : "VPN Checker",
+"Description" : "If device has VPN connection then app will crash",
+"Provider_Name" : "mt.VPN",
+"File_Name" : "VPN.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/VPN.smali"
+},
+
+{
+"Protection_Name" : "Emulator Checker",
+"Description" : "If device uses Emulator to run app then app will crash",
+"Provider_Name" : "mt.Emulator",
+"File_Name" : "Emulator.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Emulator.smali"
+},
+{
+"Protection_Name" : "Block Screenshot",
+"Description" : "Prevent app from taking screenshot in app",
+"Provider_Name" : "mt.Screenshot",
+"File_Name" : "Screenshot.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Screenshot.smali"
+},
+{
+"Protection_Name" : "Httpcanary Checker",
+"Description" : "If device trying to get web app data using Http Canary then app will crash",
+"Provider_Name" : "mt.HttpCanary",
+"File_Name" : "HttpCanary.smali",
+"File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/HttpCanary.smali"
+}
+
+]
