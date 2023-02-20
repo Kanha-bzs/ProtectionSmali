@@ -3,6 +3,9 @@
 "Protection_Name" : "Internet Checker",
 "Description" : "If device has no internet connection then app will crash",
 "Provider_Name" : "mt.Internet",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "Internet.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Internet.dex"
 },
@@ -10,6 +13,9 @@
 "Protection_Name" : "Root Checker",
 "Description" : "If device is rooted then app will crash",
 "Provider_Name" : "mt.Root",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "Root.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Root.dex"
 },
@@ -18,6 +24,9 @@
 "Protection_Name" : "VPN Checker",
 "Description" : "If device has VPN connection then app will crash",
 "Provider_Name" : "mt.VPN",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "VPN.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/VPN.dex"
 },
@@ -26,6 +35,9 @@
 "Protection_Name" : "Emulator Checker",
 "Description" : "If device uses Emulator to run app then app will crash",
 "Provider_Name" : "mt.Emulator",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "Emulator.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Emulator.dex"
 },
@@ -33,6 +45,9 @@
 "Protection_Name" : "Block Screenshot",
 "Description" : "Prevent app from taking screenshot in app",
 "Provider_Name" : "mt.Screenshot",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "Screenshot.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Screenshot.dex"
 },
@@ -40,6 +55,9 @@
 "Protection_Name" : "Httpcanary Checker",
 "Description" : "If device trying to get web app data using Http Canary then app will crash",
 "Provider_Name" : "mt.HttpCanary",
+"isOpenEditDialog" : "true",
+"EditText_Hint" : "Enter app SHA-1 code",
+"Usage_Note" : "Plz Input all things 👍",
 "File_Name" : "HttpCanary.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/HttpCanary.dex"
 }
