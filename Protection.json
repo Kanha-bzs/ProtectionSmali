@@ -55,9 +55,9 @@
 "Protection_Name" : "Httpcanary Checker",
 "Description" : "If device trying to get web app data using Http Canary then app will crash",
 "Provider_Name" : "mt.HttpCanary",
-"isOpenEditDialog" : "true",
-"EditText_Hint" : "Enter app SHA-1 code",
-"Usage_Note" : "Plz Input all things 👍",
+"isOpenEditDialog" : "false",
+"EditText_Hint" : "null",
+"Usage_Note" : "null",
 "File_Name" : "HttpCanary.dex",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/HttpCanary.dex"
 }
