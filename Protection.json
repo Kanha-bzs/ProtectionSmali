@@ -38,6 +38,7 @@
 "EditText_Hint" : "Add message(Html Support)",
 "Usage_Note" : "You can insert a beautiful html color Toast Message in your apk.. Just you need to add your Message which you want to show while opening app then click save then click process to complete.. You can use HTML text , For Example :- <font color= #FF0000>Modded by MT</font>. You can try more stylish",
 "File_Name" : "Toast.dex",
+"Asset_File_Name" : "txt",
 "File_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/Toast.dex"
 },
 
